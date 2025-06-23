@@ -2,7 +2,7 @@
 
 # Privacy Policy for Occasio: Annual Event Tracker
 
-**Last Updated:** [Insert Date]
+**Last Updated:** [06-23-25]
 
 At Occasio, your privacy is important to us. This Privacy Policy outlines how we handle your information when you use our app.
 
